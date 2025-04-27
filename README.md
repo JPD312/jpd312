@@ -21,7 +21,7 @@
 
 # 🥷 Google Cybersecurity 🥷 #
 - [x] Foundations of Cybersecurity
-- [ ] Play It Safe: Manage Security Risks
+- [x] Play It Safe: Manage Security Risks
 - [ ] Connect and Protect: Networks and Network Security
 - [ ] Tools of the Trade: Linux and SQL
 - [ ] Assets, Threats, and Vulnerabilities
