@@ -17,8 +17,7 @@
 - [ ] Using Python to Access Web Data
 - [ ] Using Databases with Python
 - [ ] Capstone: Retrieving, Processing, and Visualizing Data with Python
-## 📊 Progress
-![Progress] (https://progress-bar.dev/16.7/)
+
 
 # 🥷 Google Cybersecurity 🥷 #
 - [x] Foundations of Cybersecurity
